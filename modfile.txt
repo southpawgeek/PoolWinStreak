@@ -1,0 +1,2 @@
+:: Pool Win Streak v1.0
+Import "Scripts/PoolWinStreak.Main.lua"
